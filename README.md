@@ -21,7 +21,7 @@ Model specific options for auto completing @FOR:
 When you hover the mouse over a LINGO function, a text box will appear with the function's prototype, documentation and sample code. Hovering over set names will display a text box containing the set name and all of its attributes. Additionally, hovering over a set's attribute will show a text box with the attribute and the set to which it belongs.
 
 Hovering the mouse over a the @SUM fucntion:
-![](resources?hover_func_LIGHT.png)
+![](resources/hover_func_LIGHT.png)
 
 Hovering the mouse over a set:
 ![](resources/hover_set_LIGHT.png)
