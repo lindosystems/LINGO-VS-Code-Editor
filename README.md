@@ -6,7 +6,7 @@ This is the official LINGO VS Code editor extension. It features syntax highligh
 For the `Run LINGO` feature to work you must [have the latest version of LINGO 21](https://lindo.com/index.php/ls-downloads/try-lingo) installed on your computer. When a .LNG file is open a `Run LINGO` button will appear in the top right corner.
 
 
-![](resources/runLINGO_LIGHT.png)
+![](resources/runLINGO_LIGHT.png?raw=true)
 
 ## Editor Features
 Syntax highlighting, auto-completion and hover text are essential for most language extensions. These features boost productivity, enabling users to conduct more rapid research and development. The LINGO VS Code editor extension tailors these features specifically to the LINGO modeling language.
@@ -16,18 +16,18 @@ The auto-complete feature includes each LINGO function, logical operator and sec
 
 Model specific options for auto completing @FOR:
 
-![](resources/auto_complete_LIGHT.png)
+![](resources/auto_complete_LIGHT.png?raw=true)
 
 ### Hover Text
 When you hover the mouse over a LINGO function, a text box will appear with the function's prototype, documentation and sample code. Hovering over set names will display a text box containing the set name and all of its attributes. Additionally, hovering over a set's attribute will show a text box with the attribute and the set to which it belongs.
 
 Hovering the mouse over a the @SUM fucntion:
 
-![](resources/hover_func_LIGHT.png)
+![](resources/hover_func_LIGHT.png?raw=true)
 
 Hovering the mouse over a set:
 
-![](resources/hover_set_LIGHT.png)
+![](resources/hover_set_LIGHT.png?raw=true)
 
 
 ### Future Features
