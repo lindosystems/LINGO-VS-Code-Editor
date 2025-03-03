@@ -15,15 +15,18 @@ Syntax highlighting, auto-completion and hover text are essential for most langu
 The auto-complete feature includes each LINGO function, logical operator and section name. Additionally, every set name, along with all their attributes and variables, is covered. Lastly, the extension includes templates for each set looping function, complete with the set name and an iterator. 
 
 Model specific options for auto completing @FOR:
+
 ![](resources/auto_complete_LIGHT.png)
 
 ### Hover Text
 When you hover the mouse over a LINGO function, a text box will appear with the function's prototype, documentation and sample code. Hovering over set names will display a text box containing the set name and all of its attributes. Additionally, hovering over a set's attribute will show a text box with the attribute and the set to which it belongs.
 
 Hovering the mouse over a the @SUM fucntion:
+
 ![](resources/hover_func_LIGHT.png)
 
 Hovering the mouse over a set:
+
 ![](resources/hover_set_LIGHT.png)
 
 
